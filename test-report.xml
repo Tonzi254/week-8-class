@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/home/daniel/Moringa School/devops/classes/week-eight/test.js">
+    <testCase name="GET Endpoints Get" duration="52"/>
+  </file>
+</testExecutions>
